@@ -1,4 +1,5 @@
 # Meus Estudos de Java/Spring Boot ☕🍃
+###### _Pssst! English version of this file is available [here](./EN_US.md)._
 
 ## 💡 **Descrição:**  
 Olá! Este repositório é dedicado aos meus estudos em Java, com foco em Spring Boot. 
