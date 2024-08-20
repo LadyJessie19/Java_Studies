@@ -1,17 +1,17 @@
-# My Java/Spring Boot Studies ☕🍃
+# Meus Estudos de Java/Spring Boot ☕🍃
 
-## 💡 **Description:**  
-Hello! This repository is dedicated to my studies in Java, with a focus on Spring Boot. 
-I decided to share these materials with the community because they've been incredibly helpful to me, and I believe we are stronger when we learn together.
+## 💡 **Descrição:**  
+Olá! Este repositório é dedicado aos meus estudos em Java, com foco em Spring Boot. 
+Decidi compartilhar estes materiais com a comunidade porque foram extremamente úteis para mim, e acredito que somos mais fortes quando aprendemos juntos.
 
-## 🎁 **Folder Structure**
-This repository is organized into two main folders:
-- **JaVanilla:** A playful name representing pure Java. This section covers the basics of the language, including variables, data structures, control structures, and more. It's designed to introduce Java syntax to new learners.
-- **SpringBoot:** These markdown files explain the fundamentals of building a Spring Boot Web API. The topics range from starting a new project to managing relationships between tables, and beyond.
+## 🎁 **Estrutura de Pastas**
+Este repositório está organizado em duas pastas principais:
+- **JaVanilla:** Um nome divertido representando Java puro. Esta seção cobre os fundamentos da linguagem, incluindo variáveis, estruturas de dados, estruturas de controle, e mais. É projetada para apresentar a sintaxe do Java para novos aprendizes.
+- **SpringBoot:** Estes arquivos Markdown explicam os fundamentos para construir uma API Web com Spring Boot. Os tópicos vão desde o início de um novo projeto até o gerenciamento de relacionamentos entre tabelas, e muito mais.
 
-## 🆘 **Contributions and Improvements**
-If you’d like to contribute or have any feedback about this repository, feel free to open a pull request with your insights, corrections, tips, etc. 
-Your help is more than welcome!
+## 🆘 **Contribuições e Melhorias**
+Se você deseja contribuir ou tem algum feedback sobre este repositório, sinta-se à vontade para abrir uma solicitação de pull com seus insights, correções, dicas, etc. 
+Sua ajuda é mais do que bem-vinda!
 
-## 🙋‍♀️ **Author:**  
+## 🙋‍♀️ **Autor:**  
 [Jessie M. Bentes](https://github.com/LadyJessie19)
